@@ -1,0 +1,14 @@
+C:\Users\i_rameez\source\repos\practice(day3&4)\bin\Debug\net8.0\practice(day3&4).exe
+C:\Users\i_rameez\source\repos\practice(day3&4)\bin\Debug\net8.0\practice(day3&4).deps.json
+C:\Users\i_rameez\source\repos\practice(day3&4)\bin\Debug\net8.0\practice(day3&4).runtimeconfig.json
+C:\Users\i_rameez\source\repos\practice(day3&4)\bin\Debug\net8.0\practice(day3&4).dll
+C:\Users\i_rameez\source\repos\practice(day3&4)\bin\Debug\net8.0\practice(day3&4).pdb
+C:\Users\i_rameez\source\repos\practice(day3&4)\obj\Debug\net8.0\practice(day3&4).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i_rameez\source\repos\practice(day3&4)\obj\Debug\net8.0\practice(day3&4).AssemblyInfoInputs.cache
+C:\Users\i_rameez\source\repos\practice(day3&4)\obj\Debug\net8.0\practice(day3&4).AssemblyInfo.cs
+C:\Users\i_rameez\source\repos\practice(day3&4)\obj\Debug\net8.0\practice(day3&4).csproj.CoreCompileInputs.cache
+C:\Users\i_rameez\source\repos\practice(day3&4)\obj\Debug\net8.0\practice(day3&4).dll
+C:\Users\i_rameez\source\repos\practice(day3&4)\obj\Debug\net8.0\refint\practice(day3&4).dll
+C:\Users\i_rameez\source\repos\practice(day3&4)\obj\Debug\net8.0\practice(day3&4).pdb
+C:\Users\i_rameez\source\repos\practice(day3&4)\obj\Debug\net8.0\practice(day3&4).genruntimeconfig.cache
+C:\Users\i_rameez\source\repos\practice(day3&4)\obj\Debug\net8.0\ref\practice(day3&4).dll
