@@ -1,0 +1,14 @@
+C:\Users\ALI\source\repos\ClassesPrac\ClassesPrac\obj\Debug\net8.0\ClassesPrac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALI\source\repos\ClassesPrac\ClassesPrac\obj\Debug\net8.0\ClassesPrac.AssemblyInfoInputs.cache
+C:\Users\ALI\source\repos\ClassesPrac\ClassesPrac\obj\Debug\net8.0\ClassesPrac.AssemblyInfo.cs
+C:\Users\ALI\source\repos\ClassesPrac\ClassesPrac\obj\Debug\net8.0\ClassesPrac.csproj.CoreCompileInputs.cache
+C:\Users\ALI\source\repos\ClassesPrac\ClassesPrac\bin\Debug\net8.0\ClassesPrac.exe
+C:\Users\ALI\source\repos\ClassesPrac\ClassesPrac\bin\Debug\net8.0\ClassesPrac.deps.json
+C:\Users\ALI\source\repos\ClassesPrac\ClassesPrac\bin\Debug\net8.0\ClassesPrac.runtimeconfig.json
+C:\Users\ALI\source\repos\ClassesPrac\ClassesPrac\bin\Debug\net8.0\ClassesPrac.dll
+C:\Users\ALI\source\repos\ClassesPrac\ClassesPrac\bin\Debug\net8.0\ClassesPrac.pdb
+C:\Users\ALI\source\repos\ClassesPrac\ClassesPrac\obj\Debug\net8.0\ClassesPrac.dll
+C:\Users\ALI\source\repos\ClassesPrac\ClassesPrac\obj\Debug\net8.0\refint\ClassesPrac.dll
+C:\Users\ALI\source\repos\ClassesPrac\ClassesPrac\obj\Debug\net8.0\ClassesPrac.pdb
+C:\Users\ALI\source\repos\ClassesPrac\ClassesPrac\obj\Debug\net8.0\ClassesPrac.genruntimeconfig.cache
+C:\Users\ALI\source\repos\ClassesPrac\ClassesPrac\obj\Debug\net8.0\ref\ClassesPrac.dll
