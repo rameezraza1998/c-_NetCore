@@ -8,7 +8,7 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ALI\\.nuget\\packages\\": {},
+    "C:\\Users\\DELL\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -17,14 +17,14 @@
       "projectUniqueName": "D:\\c-_NetCore\\AccessModifiers\\AccessModifiers\\AccessModifiers.csproj",
       "projectName": "AccessModifiers",
       "projectPath": "D:\\c-_NetCore\\AccessModifiers\\AccessModifiers\\AccessModifiers.csproj",
-      "packagesPath": "C:\\Users\\ALI\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
       "outputPath": "D:\\c-_NetCore\\AccessModifiers\\AccessModifiers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ALI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

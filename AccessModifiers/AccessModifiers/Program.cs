@@ -44,7 +44,7 @@ internal class Program
         myPublicClass publicObj = new myPublicClass();
         Console.WriteLine(publicObj.PublicName); // Accessible from anywhere
         // private variable is not accessible here
-        Console.WriteLine(publicObj.PrivateAge);
+        //Console.WriteLine(publicObj.PrivateAge);
 
         Console.WriteLine();
 
