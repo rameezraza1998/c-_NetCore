@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ALI\\source\\repos\\ClassesPrac\\ClassesPrac\\ClassesPrac.csproj": {}
+    "D:\\c-_NetCore\\ClassesPrac\\ClassesPrac\\ClassesPrac.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ALI\\source\\repos\\ClassesPrac\\ClassesPrac\\ClassesPrac.csproj": {
+    "D:\\c-_NetCore\\ClassesPrac\\ClassesPrac\\ClassesPrac.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALI\\source\\repos\\ClassesPrac\\ClassesPrac\\ClassesPrac.csproj",
+        "projectUniqueName": "D:\\c-_NetCore\\ClassesPrac\\ClassesPrac\\ClassesPrac.csproj",
         "projectName": "ClassesPrac",
-        "projectPath": "C:\\Users\\ALI\\source\\repos\\ClassesPrac\\ClassesPrac\\ClassesPrac.csproj",
+        "projectPath": "D:\\c-_NetCore\\ClassesPrac\\ClassesPrac\\ClassesPrac.csproj",
         "packagesPath": "C:\\Users\\ALI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALI\\source\\repos\\ClassesPrac\\ClassesPrac\\obj\\",
+        "outputPath": "D:\\c-_NetCore\\ClassesPrac\\ClassesPrac\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
