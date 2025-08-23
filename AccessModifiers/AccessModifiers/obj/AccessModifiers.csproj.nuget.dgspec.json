@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ALI\\source\\repos\\AccessModifiers\\AccessModifiers\\AccessModifiers.csproj": {}
+    "D:\\c-_NetCore\\AccessModifiers\\AccessModifiers\\AccessModifiers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ALI\\source\\repos\\AccessModifiers\\AccessModifiers\\AccessModifiers.csproj": {
+    "D:\\c-_NetCore\\AccessModifiers\\AccessModifiers\\AccessModifiers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALI\\source\\repos\\AccessModifiers\\AccessModifiers\\AccessModifiers.csproj",
+        "projectUniqueName": "D:\\c-_NetCore\\AccessModifiers\\AccessModifiers\\AccessModifiers.csproj",
         "projectName": "AccessModifiers",
-        "projectPath": "C:\\Users\\ALI\\source\\repos\\AccessModifiers\\AccessModifiers\\AccessModifiers.csproj",
+        "projectPath": "D:\\c-_NetCore\\AccessModifiers\\AccessModifiers\\AccessModifiers.csproj",
         "packagesPath": "C:\\Users\\ALI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALI\\source\\repos\\AccessModifiers\\AccessModifiers\\obj\\",
+        "outputPath": "D:\\c-_NetCore\\AccessModifiers\\AccessModifiers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
