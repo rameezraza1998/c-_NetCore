@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Properties\u0026Encapsulation\\",
+  "WorkspaceRootPath": "C:\\Users\\i_rameez\\c-_NetCore\\Properties\u0026Encapsulation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D39F4056-6CEB-466C-93FB-03A79F324834}|Properties\u0026Encapsulation\\Properties\u0026Encapsulation.csproj|c:\\users\\dell\\source\\repos\\properties\u0026encapsulation\\properties\u0026encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D39F4056-6CEB-466C-93FB-03A79F324834}|Properties\u0026Encapsulation\\Properties\u0026Encapsulation.csproj|c:\\users\\i_rameez\\c-_netcore\\properties\u0026encapsulation\\properties\u0026encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D39F4056-6CEB-466C-93FB-03A79F324834}|Properties\u0026Encapsulation\\Properties\u0026Encapsulation.csproj|solutionrelative:properties\u0026encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Properties\u0026Encapsulation\\Properties\u0026Encapsulation\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\i_rameez\\c-_NetCore\\Properties\u0026Encapsulation\\Properties\u0026Encapsulation\\Program.cs",
               "RelativeDocumentMoniker": "Properties\u0026Encapsulation\\Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Properties\u0026Encapsulation\\Properties\u0026Encapsulation\\Program.cs*",
-              "RelativeToolTip": "Properties\u0026Encapsulation\\Program.cs*",
-              "ViewState": "AgIAACkAAADAxMzMzMwkwDMAAAAgAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\i_rameez\\c-_NetCore\\Properties\u0026Encapsulation\\Properties\u0026Encapsulation\\Program.cs",
+              "RelativeToolTip": "Properties\u0026Encapsulation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-23T08:42:13.034Z",
               "EditorCaption": ""
