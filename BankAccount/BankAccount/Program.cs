@@ -47,10 +47,22 @@ public class BankAccount
         Console.WriteLine("Please enter your name: ");
         string accountHolder = Console.ReadLine();   // ✅ declare string
 
-        BankAccount account1 = new BankAccount(accountNumber, accountHolder, 0);
+        //Console.WriteLine("Do You want to deposit some cash?");
+        decimal initialDeposit = 0;
 
-        account1.Deposit(1000m);
-        account1.Withdraw(100m);
+        BankAccount account1 = new BankAccount(accountNumber, accountHolder, initialDeposit);
+
+        Console.WriteLine($"Account created successfully! Account Number: {account1.AccountNumber}, Account Holder: {account1.AccountHolder}, Balance: {account1.Balance}");
+
+        Console.WriteLine();
+
+        account1.Deposit(1000);
+
+        Console.WriteLine($"Your new Balance after deposit {account1.Balance}");
+        account1.Withdraw(100);
+        Console.WriteLine($"Your new Balance after deposit {account1.Balance}");
+
+        //Console.WriteLine("Hello");
     }
 
 }
