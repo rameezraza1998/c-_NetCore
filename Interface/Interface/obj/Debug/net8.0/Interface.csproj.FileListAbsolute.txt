@@ -1,0 +1,15 @@
+C:\Users\i_rameez\c-_NetCore\Interface\Interface\bin\Debug\net8.0\Interface.exe
+C:\Users\i_rameez\c-_NetCore\Interface\Interface\bin\Debug\net8.0\Interface.deps.json
+C:\Users\i_rameez\c-_NetCore\Interface\Interface\bin\Debug\net8.0\Interface.runtimeconfig.json
+C:\Users\i_rameez\c-_NetCore\Interface\Interface\bin\Debug\net8.0\Interface.dll
+C:\Users\i_rameez\c-_NetCore\Interface\Interface\bin\Debug\net8.0\Interface.pdb
+C:\Users\i_rameez\c-_NetCore\Interface\Interface\obj\Debug\net8.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i_rameez\c-_NetCore\Interface\Interface\obj\Debug\net8.0\Interface.AssemblyInfoInputs.cache
+C:\Users\i_rameez\c-_NetCore\Interface\Interface\obj\Debug\net8.0\Interface.AssemblyInfo.cs
+C:\Users\i_rameez\c-_NetCore\Interface\Interface\obj\Debug\net8.0\Interface.csproj.CoreCompileInputs.cache
+C:\Users\i_rameez\c-_NetCore\Interface\Interface\obj\Debug\net8.0\Interface.sourcelink.json
+C:\Users\i_rameez\c-_NetCore\Interface\Interface\obj\Debug\net8.0\Interface.dll
+C:\Users\i_rameez\c-_NetCore\Interface\Interface\obj\Debug\net8.0\refint\Interface.dll
+C:\Users\i_rameez\c-_NetCore\Interface\Interface\obj\Debug\net8.0\Interface.pdb
+C:\Users\i_rameez\c-_NetCore\Interface\Interface\obj\Debug\net8.0\Interface.genruntimeconfig.cache
+C:\Users\i_rameez\c-_NetCore\Interface\Interface\obj\Debug\net8.0\ref\Interface.dll
