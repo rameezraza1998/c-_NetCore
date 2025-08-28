@@ -1,0 +1,15 @@
+C:\Users\i_rameez\c-_NetCore\Static&Partial\Static&Partial\bin\Debug\net8.0\Static&Partial.exe
+C:\Users\i_rameez\c-_NetCore\Static&Partial\Static&Partial\bin\Debug\net8.0\Static&Partial.deps.json
+C:\Users\i_rameez\c-_NetCore\Static&Partial\Static&Partial\bin\Debug\net8.0\Static&Partial.runtimeconfig.json
+C:\Users\i_rameez\c-_NetCore\Static&Partial\Static&Partial\bin\Debug\net8.0\Static&Partial.dll
+C:\Users\i_rameez\c-_NetCore\Static&Partial\Static&Partial\bin\Debug\net8.0\Static&Partial.pdb
+C:\Users\i_rameez\c-_NetCore\Static&Partial\Static&Partial\obj\Debug\net8.0\Static&Partial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i_rameez\c-_NetCore\Static&Partial\Static&Partial\obj\Debug\net8.0\Static&Partial.AssemblyInfoInputs.cache
+C:\Users\i_rameez\c-_NetCore\Static&Partial\Static&Partial\obj\Debug\net8.0\Static&Partial.AssemblyInfo.cs
+C:\Users\i_rameez\c-_NetCore\Static&Partial\Static&Partial\obj\Debug\net8.0\Static&Partial.csproj.CoreCompileInputs.cache
+C:\Users\i_rameez\c-_NetCore\Static&Partial\Static&Partial\obj\Debug\net8.0\Static&Partial.sourcelink.json
+C:\Users\i_rameez\c-_NetCore\Static&Partial\Static&Partial\obj\Debug\net8.0\Static&Partial.dll
+C:\Users\i_rameez\c-_NetCore\Static&Partial\Static&Partial\obj\Debug\net8.0\refint\Static&Partial.dll
+C:\Users\i_rameez\c-_NetCore\Static&Partial\Static&Partial\obj\Debug\net8.0\Static&Partial.pdb
+C:\Users\i_rameez\c-_NetCore\Static&Partial\Static&Partial\obj\Debug\net8.0\Static&Partial.genruntimeconfig.cache
+C:\Users\i_rameez\c-_NetCore\Static&Partial\Static&Partial\obj\Debug\net8.0\ref\Static&Partial.dll
