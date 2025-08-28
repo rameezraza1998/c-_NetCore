@@ -37,15 +37,48 @@ class Dog : IAnimal
     }
 }
 
-class Program
+
+class Cat : IAnimal
 {
-    private static void Main(string[] args)
+    public string Name { get; set; }
+
+
+    public Cat(string name)
     {
+        this.Name = name;
+    }
+
+    public void Speak()
+    {
+        Console.WriteLine($"Meow Meow speaks {Name}");
+    }
+
+    public void Eat()
+    {
+        Console.WriteLine("Cat is eating");
 
 
-        Dog dog = new Dog("Bella");
-        dog.Speak();
-        dog.Eat();
-        Console.WriteLine("Hello, Interface!");
+    }
+
+    class Program
+    {
+        private static void Main(string[] args)
+        {
+
+
+            Dog dog = new Dog("Ciao");
+            dog.Speak();
+            dog.Eat();
+
+
+           
+
+            Console.WriteLine();
+
+
+            Cat cat = new Cat("Bella");
+            cat.Speak();
+            cat.Eat();
+        }
     }
 }
