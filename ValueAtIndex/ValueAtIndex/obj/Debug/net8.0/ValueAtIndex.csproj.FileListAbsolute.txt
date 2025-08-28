@@ -1,0 +1,15 @@
+C:\Users\i_rameez\c-_NetCore\ValueAtIndex\ValueAtIndex\bin\Debug\net8.0\ValueAtIndex.exe
+C:\Users\i_rameez\c-_NetCore\ValueAtIndex\ValueAtIndex\bin\Debug\net8.0\ValueAtIndex.deps.json
+C:\Users\i_rameez\c-_NetCore\ValueAtIndex\ValueAtIndex\bin\Debug\net8.0\ValueAtIndex.runtimeconfig.json
+C:\Users\i_rameez\c-_NetCore\ValueAtIndex\ValueAtIndex\bin\Debug\net8.0\ValueAtIndex.dll
+C:\Users\i_rameez\c-_NetCore\ValueAtIndex\ValueAtIndex\bin\Debug\net8.0\ValueAtIndex.pdb
+C:\Users\i_rameez\c-_NetCore\ValueAtIndex\ValueAtIndex\obj\Debug\net8.0\ValueAtIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i_rameez\c-_NetCore\ValueAtIndex\ValueAtIndex\obj\Debug\net8.0\ValueAtIndex.AssemblyInfoInputs.cache
+C:\Users\i_rameez\c-_NetCore\ValueAtIndex\ValueAtIndex\obj\Debug\net8.0\ValueAtIndex.AssemblyInfo.cs
+C:\Users\i_rameez\c-_NetCore\ValueAtIndex\ValueAtIndex\obj\Debug\net8.0\ValueAtIndex.csproj.CoreCompileInputs.cache
+C:\Users\i_rameez\c-_NetCore\ValueAtIndex\ValueAtIndex\obj\Debug\net8.0\ValueAtIndex.sourcelink.json
+C:\Users\i_rameez\c-_NetCore\ValueAtIndex\ValueAtIndex\obj\Debug\net8.0\ValueAtIndex.dll
+C:\Users\i_rameez\c-_NetCore\ValueAtIndex\ValueAtIndex\obj\Debug\net8.0\refint\ValueAtIndex.dll
+C:\Users\i_rameez\c-_NetCore\ValueAtIndex\ValueAtIndex\obj\Debug\net8.0\ValueAtIndex.pdb
+C:\Users\i_rameez\c-_NetCore\ValueAtIndex\ValueAtIndex\obj\Debug\net8.0\ValueAtIndex.genruntimeconfig.cache
+C:\Users\i_rameez\c-_NetCore\ValueAtIndex\ValueAtIndex\obj\Debug\net8.0\ref\ValueAtIndex.dll
