@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Records-Immutability&Tuples/1.0.0": {
+        "runtime": {
+          "Records-Immutability&Tuples.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Records-Immutability&Tuples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

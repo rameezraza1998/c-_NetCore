@@ -1,0 +1,15 @@
+C:\Users\i_rameez\c-_NetCore\Records-Immutability&Tuples\Records-Immutability&Tuples\bin\Debug\net8.0\Records-Immutability&Tuples.exe
+C:\Users\i_rameez\c-_NetCore\Records-Immutability&Tuples\Records-Immutability&Tuples\bin\Debug\net8.0\Records-Immutability&Tuples.deps.json
+C:\Users\i_rameez\c-_NetCore\Records-Immutability&Tuples\Records-Immutability&Tuples\bin\Debug\net8.0\Records-Immutability&Tuples.runtimeconfig.json
+C:\Users\i_rameez\c-_NetCore\Records-Immutability&Tuples\Records-Immutability&Tuples\bin\Debug\net8.0\Records-Immutability&Tuples.dll
+C:\Users\i_rameez\c-_NetCore\Records-Immutability&Tuples\Records-Immutability&Tuples\bin\Debug\net8.0\Records-Immutability&Tuples.pdb
+C:\Users\i_rameez\c-_NetCore\Records-Immutability&Tuples\Records-Immutability&Tuples\obj\Debug\net8.0\Records-Immutability&Tuples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i_rameez\c-_NetCore\Records-Immutability&Tuples\Records-Immutability&Tuples\obj\Debug\net8.0\Records-Immutability&Tuples.AssemblyInfoInputs.cache
+C:\Users\i_rameez\c-_NetCore\Records-Immutability&Tuples\Records-Immutability&Tuples\obj\Debug\net8.0\Records-Immutability&Tuples.AssemblyInfo.cs
+C:\Users\i_rameez\c-_NetCore\Records-Immutability&Tuples\Records-Immutability&Tuples\obj\Debug\net8.0\Records-Immutability&Tuples.csproj.CoreCompileInputs.cache
+C:\Users\i_rameez\c-_NetCore\Records-Immutability&Tuples\Records-Immutability&Tuples\obj\Debug\net8.0\Records-Immutability&Tuples.sourcelink.json
+C:\Users\i_rameez\c-_NetCore\Records-Immutability&Tuples\Records-Immutability&Tuples\obj\Debug\net8.0\Records-Immutability&Tuples.dll
+C:\Users\i_rameez\c-_NetCore\Records-Immutability&Tuples\Records-Immutability&Tuples\obj\Debug\net8.0\refint\Records-Immutability&Tuples.dll
+C:\Users\i_rameez\c-_NetCore\Records-Immutability&Tuples\Records-Immutability&Tuples\obj\Debug\net8.0\Records-Immutability&Tuples.pdb
+C:\Users\i_rameez\c-_NetCore\Records-Immutability&Tuples\Records-Immutability&Tuples\obj\Debug\net8.0\Records-Immutability&Tuples.genruntimeconfig.cache
+C:\Users\i_rameez\c-_NetCore\Records-Immutability&Tuples\Records-Immutability&Tuples\obj\Debug\net8.0\ref\Records-Immutability&Tuples.dll

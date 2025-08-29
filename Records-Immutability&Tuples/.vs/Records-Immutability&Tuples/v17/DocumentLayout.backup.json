@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\i_rameez\\c-_NetCore\\Records-Immutability\u0026Tuples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A8BB3-4683-434D-AAA2-F3AEDA7B1A3B}|Records-Immutability\u0026Tuples\\Records-Immutability\u0026Tuples.csproj|c:\\users\\i_rameez\\c-_netcore\\records-immutability\u0026tuples\\records-immutability\u0026tuples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A8BB3-4683-434D-AAA2-F3AEDA7B1A3B}|Records-Immutability\u0026Tuples\\Records-Immutability\u0026Tuples.csproj|solutionrelative:records-immutability\u0026tuples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\i_rameez\\c-_NetCore\\Records-Immutability\u0026Tuples\\Records-Immutability\u0026Tuples\\Program.cs",
+              "RelativeDocumentMoniker": "Records-Immutability\u0026Tuples\\Program.cs",
+              "ToolTip": "C:\\Users\\i_rameez\\c-_NetCore\\Records-Immutability\u0026Tuples\\Records-Immutability\u0026Tuples\\Program.cs*",
+              "RelativeToolTip": "Records-Immutability\u0026Tuples\\Program.cs*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwDwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:28:11.926Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
