@@ -1,0 +1,15 @@
+C:\Users\i_rameez\c-_NetCore\Genereics(Lists&Dictionary)\Genereics(Lists&Dictionary)\bin\Debug\net8.0\Genereics(Lists&Dictionary).exe
+C:\Users\i_rameez\c-_NetCore\Genereics(Lists&Dictionary)\Genereics(Lists&Dictionary)\bin\Debug\net8.0\Genereics(Lists&Dictionary).deps.json
+C:\Users\i_rameez\c-_NetCore\Genereics(Lists&Dictionary)\Genereics(Lists&Dictionary)\bin\Debug\net8.0\Genereics(Lists&Dictionary).runtimeconfig.json
+C:\Users\i_rameez\c-_NetCore\Genereics(Lists&Dictionary)\Genereics(Lists&Dictionary)\bin\Debug\net8.0\Genereics(Lists&Dictionary).dll
+C:\Users\i_rameez\c-_NetCore\Genereics(Lists&Dictionary)\Genereics(Lists&Dictionary)\bin\Debug\net8.0\Genereics(Lists&Dictionary).pdb
+C:\Users\i_rameez\c-_NetCore\Genereics(Lists&Dictionary)\Genereics(Lists&Dictionary)\obj\Debug\net8.0\Genereics(Lists&Dictionary).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i_rameez\c-_NetCore\Genereics(Lists&Dictionary)\Genereics(Lists&Dictionary)\obj\Debug\net8.0\Genereics(Lists&Dictionary).AssemblyInfoInputs.cache
+C:\Users\i_rameez\c-_NetCore\Genereics(Lists&Dictionary)\Genereics(Lists&Dictionary)\obj\Debug\net8.0\Genereics(Lists&Dictionary).AssemblyInfo.cs
+C:\Users\i_rameez\c-_NetCore\Genereics(Lists&Dictionary)\Genereics(Lists&Dictionary)\obj\Debug\net8.0\Genereics(Lists&Dictionary).csproj.CoreCompileInputs.cache
+C:\Users\i_rameez\c-_NetCore\Genereics(Lists&Dictionary)\Genereics(Lists&Dictionary)\obj\Debug\net8.0\Genereics(Lists&Dictionary).sourcelink.json
+C:\Users\i_rameez\c-_NetCore\Genereics(Lists&Dictionary)\Genereics(Lists&Dictionary)\obj\Debug\net8.0\Genereics(Lists&Dictionary).dll
+C:\Users\i_rameez\c-_NetCore\Genereics(Lists&Dictionary)\Genereics(Lists&Dictionary)\obj\Debug\net8.0\refint\Genereics(Lists&Dictionary).dll
+C:\Users\i_rameez\c-_NetCore\Genereics(Lists&Dictionary)\Genereics(Lists&Dictionary)\obj\Debug\net8.0\Genereics(Lists&Dictionary).pdb
+C:\Users\i_rameez\c-_NetCore\Genereics(Lists&Dictionary)\Genereics(Lists&Dictionary)\obj\Debug\net8.0\Genereics(Lists&Dictionary).genruntimeconfig.cache
+C:\Users\i_rameez\c-_NetCore\Genereics(Lists&Dictionary)\Genereics(Lists&Dictionary)\obj\Debug\net8.0\ref\Genereics(Lists&Dictionary).dll
