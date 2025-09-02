@@ -1,0 +1,15 @@
+C:\Users\i_rameez\c-_NetCore\Delegates&Events\Delegates&Events\bin\Debug\net8.0\Delegates&Events.exe
+C:\Users\i_rameez\c-_NetCore\Delegates&Events\Delegates&Events\bin\Debug\net8.0\Delegates&Events.deps.json
+C:\Users\i_rameez\c-_NetCore\Delegates&Events\Delegates&Events\bin\Debug\net8.0\Delegates&Events.runtimeconfig.json
+C:\Users\i_rameez\c-_NetCore\Delegates&Events\Delegates&Events\bin\Debug\net8.0\Delegates&Events.dll
+C:\Users\i_rameez\c-_NetCore\Delegates&Events\Delegates&Events\bin\Debug\net8.0\Delegates&Events.pdb
+C:\Users\i_rameez\c-_NetCore\Delegates&Events\Delegates&Events\obj\Debug\net8.0\Delegates&Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i_rameez\c-_NetCore\Delegates&Events\Delegates&Events\obj\Debug\net8.0\Delegates&Events.AssemblyInfoInputs.cache
+C:\Users\i_rameez\c-_NetCore\Delegates&Events\Delegates&Events\obj\Debug\net8.0\Delegates&Events.AssemblyInfo.cs
+C:\Users\i_rameez\c-_NetCore\Delegates&Events\Delegates&Events\obj\Debug\net8.0\Delegates&Events.csproj.CoreCompileInputs.cache
+C:\Users\i_rameez\c-_NetCore\Delegates&Events\Delegates&Events\obj\Debug\net8.0\Delegates&Events.sourcelink.json
+C:\Users\i_rameez\c-_NetCore\Delegates&Events\Delegates&Events\obj\Debug\net8.0\Delegates&Events.dll
+C:\Users\i_rameez\c-_NetCore\Delegates&Events\Delegates&Events\obj\Debug\net8.0\refint\Delegates&Events.dll
+C:\Users\i_rameez\c-_NetCore\Delegates&Events\Delegates&Events\obj\Debug\net8.0\Delegates&Events.pdb
+C:\Users\i_rameez\c-_NetCore\Delegates&Events\Delegates&Events\obj\Debug\net8.0\Delegates&Events.genruntimeconfig.cache
+C:\Users\i_rameez\c-_NetCore\Delegates&Events\Delegates&Events\obj\Debug\net8.0\ref\Delegates&Events.dll
