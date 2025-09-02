@@ -52,19 +52,68 @@
         //}
 
 
+        //Syntax
+        // Dictionary<TKey, TValue>
+
+
 
         // Dictionary example
 
-        Dictionary<string, int> Studentage = new Dictionary<string, int>();
+        //Dictionary<string, int> Studentage = new Dictionary<string, int>();
 
-        Studentage.Add("Rameez Raza", 26);
-        Studentage.Add("Ali Raza", 24);
+        //Studentage.Add("Rameez Raza", 26);
+        //Studentage.Add("Ali Raza", 24);
 
-        int age = Studentage["Rameez Raza"];
-        Console.WriteLine(age);
+        //int age = Studentage["Rameez Raza"];
+        //Console.WriteLine(age);
+
+        //Dictionary<int, string > Studentage = new Dictionary<int, string >();
+
+        //Studentage.Add(26, "Rameez Raza");
+        //Studentage.Add(24, "Ali Raza");
+
+        // // // // // // // //Studentage.Add(24, "Ali"); key must be unique
+
+        //string Name = Studentage[26];
+        //string Name1 = Studentage[24];
+        //Console.WriteLine(Name);
+        //Console.WriteLine(Name1);
 
 
 
+        // Simple task for dictionary where add 5 user as contact and ask the user to search through name in it if not found show not found
 
+        var contacts = new Dictionary<string, string>();
+
+        //Console.WriteLine("Add 5 contacts (name and phone number):");
+
+        contacts["Rameez"] = "123-456-7890";
+        contacts["Ali"] = "234-567-8901";
+        contacts["Ahmed"] = "345-678-9012";
+        contacts["Sara"] = "456-789-0123";
+        contacts["Zara"] = "567-890-1234";
+
+        Console.WriteLine("Enter a name to search for a contact (or type 'exit' to quit):");
+        string? input = Console.ReadLine();
+
+        
+
+        while (input != "exit") 
+        { 
+            if(!string.IsNullOrEmpty(input) && contacts.ContainsKey(input))
+            {
+                Console.WriteLine($"Contact is found {input} => {contacts[input]}");
+                break;
+            }
+            else 
+            {                
+                Console.WriteLine("Contact not found.");
+                break;
+            }     
+        }
+        Console.WriteLine("ThankYou come again to search");
+        
+
+        
     }
 }
