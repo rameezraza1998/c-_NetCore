@@ -9,6 +9,14 @@ public delegate void GreetUser(string name);
 
 public delegate void Logger(string message);
 
+
+// Events started
+
+public delegate void MyEventHandler(string msg);
+
+
+
+
 public class MyClass
 {
     public void DisplayMessage(string message)
@@ -79,45 +87,77 @@ public class Calculator
 class Program
 {
 
-    public static List<int> FilterList(List<int> numbers, Predicate<int> filter)
+    //public static List<int> FilterList(List<int> numbers, Predicate<int> filter)
+    //{
+
+    //    List<int> result = new List<int>();
+
+    //    //Console.WriteLine(filter);
+
+    //    foreach (var number in numbers)
+    //    {
+    //        if (filter(number))
+    //        {
+
+    //            result.Add(number);
+    //        }
+    //    }
+
+    //    return result;
+    //}
+
+
+    public void DisplayMessage(string message)
     {
+        Console.WriteLine($"Hello Event Message is: {message}");
+    }
 
-        List<int> result = new List<int>();
+    public void DisplayMessage1(string message)
+    {
+        Console.WriteLine($"Hello Event Message 1 is: {message}");
+    }
 
-        //Console.WriteLine(filter);
 
-        foreach (var number in numbers)
+    public event MyEventHandler NotifyEvent;
+
+    public void triggerEvent(string msg)
+    {
+        if (NotifyEvent != null)
         {
-            if (filter(number))
-            {
-               
-                result.Add(number);
-            }
+            NotifyEvent(msg);
         }
 
-        return result;  
+        Console.WriteLine("Event Triggered");
     }
+
 
 
 
     private static void Main(string[] args)
     {
+        Program program = new Program();
 
-        List<int> numbers = new List<int> { 1, 2, 3, 4, 5 };
+        program.NotifyEvent += new MyEventHandler(program.DisplayMessage);
+        program.NotifyEvent += new MyEventHandler(program.DisplayMessage1);
+        program.triggerEvent("This is a event message and it is being triggered!!");
+
+
+
+        //List<int> numbers = new List<int> { 1, 2, 3, 4, 5 };
 
         //foreach (var number in numbers) 
         //{
         //    Console.WriteLine(number);
         //}
 
-        List<int> even = FilterList(numbers,num => num % 2 == 0);
+        //List<int> even = FilterList(numbers, num => num % 2 == 0);
 
-        Console.WriteLine($"Even Numbers: {string.Join(", ", even)}");
+        //Console.WriteLine($"Even Numbers: {string.Join(", ", even)}");
 
 
-        List<int> odd = FilterList(numbers, num => num % 2 != 0);
+        //List<int> odd = FilterList(numbers, num => num % 2 != 0);
 
-        Console.WriteLine($"Even Numbers: {string.Join(", ", odd)}");
+        //Console.WriteLine($"Even Numbers: {string.Join(", ", odd)}");
 
         //myFirstDelegate myFirstDelegate = delegate (string message)
         //{
@@ -200,6 +240,9 @@ class Program
         //Func<int, int, int> Product = (a, b) => a * b;
 
         //Console.WriteLine($"Product: {Product(10, 10)}");
+
+
+
 
 
 
