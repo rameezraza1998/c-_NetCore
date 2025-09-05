@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\i_rameez\\source\\repos\\practice(day3&4)\\practice(day3&4).csproj",
+      "projectUniqueName": "C:\\Users\\i_rameez\\c-_NetCore\\practice(day3&4)\\practice(day3&4).csproj",
       "projectName": "practice(day3&4)",
-      "projectPath": "C:\\Users\\i_rameez\\source\\repos\\practice(day3&4)\\practice(day3&4).csproj",
+      "projectPath": "C:\\Users\\i_rameez\\c-_NetCore\\practice(day3&4)\\practice(day3&4).csproj",
       "packagesPath": "C:\\Users\\i_rameez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\i_rameez\\source\\repos\\practice(day3&4)\\obj\\",
+      "outputPath": "C:\\Users\\i_rameez\\c-_NetCore\\practice(day3&4)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
