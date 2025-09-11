@@ -1,0 +1,15 @@
+C:\Users\i_rameez\c-_NetCore\Indexers\Indexers\bin\Debug\net8.0\Indexers.exe
+C:\Users\i_rameez\c-_NetCore\Indexers\Indexers\bin\Debug\net8.0\Indexers.deps.json
+C:\Users\i_rameez\c-_NetCore\Indexers\Indexers\bin\Debug\net8.0\Indexers.runtimeconfig.json
+C:\Users\i_rameez\c-_NetCore\Indexers\Indexers\bin\Debug\net8.0\Indexers.dll
+C:\Users\i_rameez\c-_NetCore\Indexers\Indexers\bin\Debug\net8.0\Indexers.pdb
+C:\Users\i_rameez\c-_NetCore\Indexers\Indexers\obj\Debug\net8.0\Indexers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i_rameez\c-_NetCore\Indexers\Indexers\obj\Debug\net8.0\Indexers.AssemblyInfoInputs.cache
+C:\Users\i_rameez\c-_NetCore\Indexers\Indexers\obj\Debug\net8.0\Indexers.AssemblyInfo.cs
+C:\Users\i_rameez\c-_NetCore\Indexers\Indexers\obj\Debug\net8.0\Indexers.csproj.CoreCompileInputs.cache
+C:\Users\i_rameez\c-_NetCore\Indexers\Indexers\obj\Debug\net8.0\Indexers.sourcelink.json
+C:\Users\i_rameez\c-_NetCore\Indexers\Indexers\obj\Debug\net8.0\Indexers.dll
+C:\Users\i_rameez\c-_NetCore\Indexers\Indexers\obj\Debug\net8.0\refint\Indexers.dll
+C:\Users\i_rameez\c-_NetCore\Indexers\Indexers\obj\Debug\net8.0\Indexers.pdb
+C:\Users\i_rameez\c-_NetCore\Indexers\Indexers\obj\Debug\net8.0\Indexers.genruntimeconfig.cache
+C:\Users\i_rameez\c-_NetCore\Indexers\Indexers\obj\Debug\net8.0\ref\Indexers.dll
