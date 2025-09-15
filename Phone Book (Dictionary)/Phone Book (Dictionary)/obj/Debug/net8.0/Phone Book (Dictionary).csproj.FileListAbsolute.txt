@@ -1,0 +1,15 @@
+C:\Users\i_rameez\c-_NetCore\Phone Book (Dictionary)\Phone Book (Dictionary)\bin\Debug\net8.0\Phone Book (Dictionary).exe
+C:\Users\i_rameez\c-_NetCore\Phone Book (Dictionary)\Phone Book (Dictionary)\bin\Debug\net8.0\Phone Book (Dictionary).deps.json
+C:\Users\i_rameez\c-_NetCore\Phone Book (Dictionary)\Phone Book (Dictionary)\bin\Debug\net8.0\Phone Book (Dictionary).runtimeconfig.json
+C:\Users\i_rameez\c-_NetCore\Phone Book (Dictionary)\Phone Book (Dictionary)\bin\Debug\net8.0\Phone Book (Dictionary).dll
+C:\Users\i_rameez\c-_NetCore\Phone Book (Dictionary)\Phone Book (Dictionary)\bin\Debug\net8.0\Phone Book (Dictionary).pdb
+C:\Users\i_rameez\c-_NetCore\Phone Book (Dictionary)\Phone Book (Dictionary)\obj\Debug\net8.0\Phone Book (Dictionary).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i_rameez\c-_NetCore\Phone Book (Dictionary)\Phone Book (Dictionary)\obj\Debug\net8.0\Phone Book (Dictionary).AssemblyInfoInputs.cache
+C:\Users\i_rameez\c-_NetCore\Phone Book (Dictionary)\Phone Book (Dictionary)\obj\Debug\net8.0\Phone Book (Dictionary).AssemblyInfo.cs
+C:\Users\i_rameez\c-_NetCore\Phone Book (Dictionary)\Phone Book (Dictionary)\obj\Debug\net8.0\Phone Book (Dictionary).csproj.CoreCompileInputs.cache
+C:\Users\i_rameez\c-_NetCore\Phone Book (Dictionary)\Phone Book (Dictionary)\obj\Debug\net8.0\Phone Book (Dictionary).sourcelink.json
+C:\Users\i_rameez\c-_NetCore\Phone Book (Dictionary)\Phone Book (Dictionary)\obj\Debug\net8.0\Phone Book (Dictionary).dll
+C:\Users\i_rameez\c-_NetCore\Phone Book (Dictionary)\Phone Book (Dictionary)\obj\Debug\net8.0\refint\Phone Book (Dictionary).dll
+C:\Users\i_rameez\c-_NetCore\Phone Book (Dictionary)\Phone Book (Dictionary)\obj\Debug\net8.0\Phone Book (Dictionary).pdb
+C:\Users\i_rameez\c-_NetCore\Phone Book (Dictionary)\Phone Book (Dictionary)\obj\Debug\net8.0\Phone Book (Dictionary).genruntimeconfig.cache
+C:\Users\i_rameez\c-_NetCore\Phone Book (Dictionary)\Phone Book (Dictionary)\obj\Debug\net8.0\ref\Phone Book (Dictionary).dll
