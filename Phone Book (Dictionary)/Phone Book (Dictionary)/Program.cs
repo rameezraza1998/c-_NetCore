@@ -1,110 +1,131 @@
-﻿class PhoneBookApp
+﻿using System;
+using System.Collections.Generic;
+
+class PhoneBookApp
 {
-    Dictionary<long, string> contacts = new Dictionary<long, string>();
+    private Dictionary<long, string> contacts = new Dictionary<long, string>();
 
-    /*
-        
-    
-     
-     */
-
-    public void AddContacts(string name, long numbers)
+    // Add a new contact
+    public void AddContact(string name, long number)
     {
-        // Implementation for adding contacts
-        string customerName = name;
-        long customerNumber = numbers;
-
-        contacts.Add(customerNumber, customerName);
+        if (!contacts.ContainsKey(number))
+        {
+            contacts.Add(number, name);
+            Console.WriteLine($"\n Contact Added: {name} ({number})\n");
+        }
+        else
+        {
+            Console.WriteLine("\n This number already exists in contacts!\n");
+        }
     }
 
+    // Display all contacts
     public void DisplayContacts()
     {
-        Console.WriteLine("Contacts List:");
+        Console.WriteLine("\n Contacts List:");
+        Console.WriteLine("=======================");
+        if (contacts.Count == 0)
+        {
+            Console.WriteLine("No contacts available.\n");
+            return;
+        }
+
         foreach (var contact in contacts)
         {
-            Console.WriteLine($"Contact-Number: {contact.Key} => Name: {contact.Value}  ");
+            Console.WriteLine($" {contact.Key} → {contact.Value}");
         }
+        Console.WriteLine("=======================\n");
     }
 
-    public void SearchContactNumber(long number)
-    { 
-            if (contacts.ContainsKey(number))
-            {
-                Console.WriteLine($"Contact Found: {contacts[number]}");
-            }
-            else
-            {
-                Console.WriteLine("Contact Not Found");
-            }
+    // Search contact by number
+    public void SearchContact(long number)
+    {
+        Console.WriteLine();
+        if (contacts.ContainsKey(number))
+        {
+            Console.WriteLine($" Contact Found: {contacts[number]} ({number})\n");
+        }
+        else
+        {
+            Console.WriteLine(" Contact Not Found.\n");
+        }
     }
 }
+
 class Program
 {
-    private static void Main(string[] args)
-    {   
+    static void Main(string[] args)
+    {
         PhoneBookApp phoneBook = new PhoneBookApp();
-
-      
-
         bool isRunning = true;
+
+        Console.WriteLine("======================================");
+        Console.WriteLine("Welcome to the Phone Book Application!");
+        Console.WriteLine("======================================");
+
         while (isRunning)
-        { 
-            
-        }
-            int choice = Convert.ToInt32(Console.ReadLine());
-
-        switch (choice)
         {
-            case 1:
-                Console.WriteLine("Enter Name:");
-                string name = Console.ReadLine();
-                Console.WriteLine("Enter Number:");
-                long number = Convert.ToInt64(Console.ReadLine());
-                phoneBook.AddContacts(name, number);
-                break;
-            case 2:
-                phoneBook.DisplayContacts();
-                break;
-            case 3:
-                Console.WriteLine("Enter Number to Search:");
-                long searchNumber = Convert.ToInt64(Console.ReadLine());
-                phoneBook.SearchContactNumber(searchNumber);
-                break;
-            case 4:
-                Console.WriteLine("Exiting the application. Goodbye!");
-                isRunning = false;
-                break;
+            Console.WriteLine("\n========= MENU =========");
+            Console.WriteLine("1. Add Contact");
+            Console.WriteLine("2. Display Contacts");
+            Console.WriteLine("3. Search Contact by Number");
+            Console.WriteLine("4. Exit");
+            Console.WriteLine("========================");
+            Console.Write("Enter your choice: ");
 
-            default:
-                break;
+            int choice;
+            if (!int.TryParse(Console.ReadLine(), out choice))
+            {
+                Console.WriteLine("\n Invalid input! Please enter a number (1-4).\n");
+                continue;
+            }
+
+            switch (choice)
+            {
+                case 1:
+                    Console.Write("\nEnter Name: ");
+                    string name = Console.ReadLine();
+
+                    Console.Write("Enter Number: ");
+                    long number;
+                    if (long.TryParse(Console.ReadLine(), out number))
+                    {
+                        phoneBook.AddContact(name, number);
+                    }
+                    else
+                    {
+                        Console.WriteLine("\n Invalid number format!\n");
+                    }
+                    break;
+
+                case 2:
+                    Console.Clear();
+                    phoneBook.DisplayContacts();
+                    break;
+
+                case 3:
+                    Console.Write("\nEnter Number to Search: ");
+                    long searchNumber;
+                    if (long.TryParse(Console.ReadLine(), out searchNumber))
+                    {
+                        phoneBook.SearchContact(searchNumber);
+                    }
+                    else
+                    {
+                        Console.WriteLine("\n Invalid number format!\n");
+                    }
+                    break;
+
+                case 4:
+                    Console.WriteLine("\n Exiting the application. Goodbye!");
+                    isRunning = false;
+                    
+                    break;
+
+                default:
+                    Console.WriteLine("\n Invalid choice. Please try again.\n");
+                    break;
+            }
         }
- 
-
-        // Dummy entries
-        //phoneBook.AddContacts("Rameez", 1234567890);
-        //phoneBook.AddContacts("Raza", 9876543210);
-        //phoneBook.AddContacts("Ali", 5555555555);
-        //phoneBook.AddContacts("Hina", 1112223333);
-        //phoneBook.AddContacts("Sara", 4445556666);
-        //phoneBook.AddContacts("Usman", 7778889999);
-        //phoneBook.AddContacts("Bilal", 1010101010);
-
-        // 🔥 10 more dummy contacts
-        //phoneBook.AddContacts("Ahsan", 2020202020);
-        //phoneBook.AddContacts("Nida", 3030303030);
-        //phoneBook.AddContacts("Khalid", 4040404040);
-        //phoneBook.AddContacts("Fatima", 5050505050);
-        //phoneBook.AddContacts("Hamza", 6060606060);
-        //phoneBook.AddContacts("Tariq", 7070707070);
-        //phoneBook.AddContacts("Sana", 8080808080);
-        //phoneBook.AddContacts("Omer", 9090909090);
-        //phoneBook.AddContacts("Laiba", 1212121212);
-        //phoneBook.AddContacts("Imran", 1313131313);
-
-        //phoneBook.DisplayContacts();
-
-
-
-            /*  Console.WriteLine("hey");*/
     }
 }

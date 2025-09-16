@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Genereics(Lists&Dictionary)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0034f951009fdb016f009797f8dcb8433b342b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d28d57cc68d2d3f80e7498cd450d12f6ec17856")]
 [assembly: System.Reflection.AssemblyProductAttribute("Genereics(Lists&Dictionary)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Genereics(Lists&Dictionary)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
