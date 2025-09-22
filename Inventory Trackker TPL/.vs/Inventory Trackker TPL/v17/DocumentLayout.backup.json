@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\i_rameez\\c-_NetCore\\Inventory Trackker TPL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D83CD71C-2A24-4D33-9452-50FE8B047865}|Inventory Trackker TPL\\Inventory Trackker TPL.csproj|c:\\users\\i_rameez\\c-_netcore\\inventory trackker tpl\\inventory trackker tpl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83CD71C-2A24-4D33-9452-50FE8B047865}|Inventory Trackker TPL\\Inventory Trackker TPL.csproj|solutionrelative:inventory trackker tpl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\i_rameez\\c-_NetCore\\Inventory Trackker TPL\\Inventory Trackker TPL\\Program.cs",
+              "RelativeDocumentMoniker": "Inventory Trackker TPL\\Program.cs",
+              "ToolTip": "C:\\Users\\i_rameez\\c-_NetCore\\Inventory Trackker TPL\\Inventory Trackker TPL\\Program.cs*",
+              "RelativeToolTip": "Inventory Trackker TPL\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T11:43:31.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

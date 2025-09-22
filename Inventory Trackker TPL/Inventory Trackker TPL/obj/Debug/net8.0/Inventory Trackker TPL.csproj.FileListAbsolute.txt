@@ -1,0 +1,15 @@
+C:\Users\i_rameez\c-_NetCore\Inventory Trackker TPL\Inventory Trackker TPL\bin\Debug\net8.0\Inventory Trackker TPL.exe
+C:\Users\i_rameez\c-_NetCore\Inventory Trackker TPL\Inventory Trackker TPL\bin\Debug\net8.0\Inventory Trackker TPL.deps.json
+C:\Users\i_rameez\c-_NetCore\Inventory Trackker TPL\Inventory Trackker TPL\bin\Debug\net8.0\Inventory Trackker TPL.runtimeconfig.json
+C:\Users\i_rameez\c-_NetCore\Inventory Trackker TPL\Inventory Trackker TPL\bin\Debug\net8.0\Inventory Trackker TPL.dll
+C:\Users\i_rameez\c-_NetCore\Inventory Trackker TPL\Inventory Trackker TPL\bin\Debug\net8.0\Inventory Trackker TPL.pdb
+C:\Users\i_rameez\c-_NetCore\Inventory Trackker TPL\Inventory Trackker TPL\obj\Debug\net8.0\Inventory Trackker TPL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i_rameez\c-_NetCore\Inventory Trackker TPL\Inventory Trackker TPL\obj\Debug\net8.0\Inventory Trackker TPL.AssemblyInfoInputs.cache
+C:\Users\i_rameez\c-_NetCore\Inventory Trackker TPL\Inventory Trackker TPL\obj\Debug\net8.0\Inventory Trackker TPL.AssemblyInfo.cs
+C:\Users\i_rameez\c-_NetCore\Inventory Trackker TPL\Inventory Trackker TPL\obj\Debug\net8.0\Inventory Trackker TPL.csproj.CoreCompileInputs.cache
+C:\Users\i_rameez\c-_NetCore\Inventory Trackker TPL\Inventory Trackker TPL\obj\Debug\net8.0\Inventory Trackker TPL.sourcelink.json
+C:\Users\i_rameez\c-_NetCore\Inventory Trackker TPL\Inventory Trackker TPL\obj\Debug\net8.0\Inventory Trackker TPL.dll
+C:\Users\i_rameez\c-_NetCore\Inventory Trackker TPL\Inventory Trackker TPL\obj\Debug\net8.0\refint\Inventory Trackker TPL.dll
+C:\Users\i_rameez\c-_NetCore\Inventory Trackker TPL\Inventory Trackker TPL\obj\Debug\net8.0\Inventory Trackker TPL.pdb
+C:\Users\i_rameez\c-_NetCore\Inventory Trackker TPL\Inventory Trackker TPL\obj\Debug\net8.0\Inventory Trackker TPL.genruntimeconfig.cache
+C:\Users\i_rameez\c-_NetCore\Inventory Trackker TPL\Inventory Trackker TPL\obj\Debug\net8.0\ref\Inventory Trackker TPL.dll
