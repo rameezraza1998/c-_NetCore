@@ -1,0 +1,15 @@
+C:\Users\i_rameez\c-_NetCore\REVISION WEEK 2\REVISION WEEK 2\bin\Debug\net8.0\REVISION WEEK 2.exe
+C:\Users\i_rameez\c-_NetCore\REVISION WEEK 2\REVISION WEEK 2\bin\Debug\net8.0\REVISION WEEK 2.deps.json
+C:\Users\i_rameez\c-_NetCore\REVISION WEEK 2\REVISION WEEK 2\bin\Debug\net8.0\REVISION WEEK 2.runtimeconfig.json
+C:\Users\i_rameez\c-_NetCore\REVISION WEEK 2\REVISION WEEK 2\bin\Debug\net8.0\REVISION WEEK 2.dll
+C:\Users\i_rameez\c-_NetCore\REVISION WEEK 2\REVISION WEEK 2\bin\Debug\net8.0\REVISION WEEK 2.pdb
+C:\Users\i_rameez\c-_NetCore\REVISION WEEK 2\REVISION WEEK 2\obj\Debug\net8.0\REVISION WEEK 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i_rameez\c-_NetCore\REVISION WEEK 2\REVISION WEEK 2\obj\Debug\net8.0\REVISION WEEK 2.AssemblyInfoInputs.cache
+C:\Users\i_rameez\c-_NetCore\REVISION WEEK 2\REVISION WEEK 2\obj\Debug\net8.0\REVISION WEEK 2.AssemblyInfo.cs
+C:\Users\i_rameez\c-_NetCore\REVISION WEEK 2\REVISION WEEK 2\obj\Debug\net8.0\REVISION WEEK 2.csproj.CoreCompileInputs.cache
+C:\Users\i_rameez\c-_NetCore\REVISION WEEK 2\REVISION WEEK 2\obj\Debug\net8.0\REVISION WEEK 2.sourcelink.json
+C:\Users\i_rameez\c-_NetCore\REVISION WEEK 2\REVISION WEEK 2\obj\Debug\net8.0\REVISION WEEK 2.dll
+C:\Users\i_rameez\c-_NetCore\REVISION WEEK 2\REVISION WEEK 2\obj\Debug\net8.0\refint\REVISION WEEK 2.dll
+C:\Users\i_rameez\c-_NetCore\REVISION WEEK 2\REVISION WEEK 2\obj\Debug\net8.0\REVISION WEEK 2.pdb
+C:\Users\i_rameez\c-_NetCore\REVISION WEEK 2\REVISION WEEK 2\obj\Debug\net8.0\REVISION WEEK 2.genruntimeconfig.cache
+C:\Users\i_rameez\c-_NetCore\REVISION WEEK 2\REVISION WEEK 2\obj\Debug\net8.0\ref\REVISION WEEK 2.dll

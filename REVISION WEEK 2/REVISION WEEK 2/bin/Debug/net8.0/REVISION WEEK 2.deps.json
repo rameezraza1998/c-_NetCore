@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "REVISION WEEK 2/1.0.0": {
+        "runtime": {
+          "REVISION WEEK 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "REVISION WEEK 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
