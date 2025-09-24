@@ -78,7 +78,7 @@
 
 //public class Car
 //{ 
-    
+
 //    public string Make { get; set; }
 
 //    public string Model { get; set; }
@@ -121,7 +121,32 @@
 
 //}
 
+//public class BankAccount
+//{
 
+//    public string Name;
+//    public string Accountnumber;
+//    public double Balance = 0;
+
+
+
+//    public double WithDraw(double amount)
+//    { 
+//        return Balance = Balance - amount;
+//    }
+
+//    public double Deposit(double amount)
+//    { 
+//        return Balance = Balance + amount;   
+//    }
+
+//    public void DisplayInfo()
+//    { 
+//        Console.WriteLine($"Account under the name of: {Name} \n Balance: {Balance}");
+//    }
+
+    
+//}
 
 internal class Program
 {
@@ -165,8 +190,12 @@ internal class Program
         //Student std1 = new Student(3485, "Syed Muhammad Rameez Raza", 10);
         //std1.PrintInfo();
 
-
-
+        //BankAccount account1 = new BankAccount();
+        //account1.Name = "Rameez";
+        //account1.Deposit(10);
+        //account1.DisplayInfo();
+        //account1.WithDraw(5);
+        //account1.DisplayInfo();
 
     }
 }
