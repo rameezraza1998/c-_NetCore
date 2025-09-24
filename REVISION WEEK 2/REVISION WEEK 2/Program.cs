@@ -145,57 +145,87 @@
 //        Console.WriteLine($"Account under the name of: {Name} \n Balance: {Balance}");
 //    }
 
-    
+
 //}
 
-internal class Program
+public class Rectangle
 {
-    private static void Main(string[] args)
+    public double Width { get; set; }
+    public double Height { get; set; }
+
+    public double GetArea()
     {
+        return Width * Height;
+    }
 
-        // getter setter and class and objects concepts
+    public double GetPerimeter()
+    {
+        return 2 * (Height + Width);
+    }
 
-        // Person person1 =new Person();
-        //int ramisAge= person1.Age = 10;
-        //string testName = person1.name = "Ramis";
-        //person1.Password = "heylo";
-
-
-
-        //Console.WriteLine(ramisAge);
-        //Console.WriteLine(testName);    
-
-
-        //Console.WriteLine(person1.Password);
+    public void DisplayInfo()
+    {
+        Console.WriteLine($"Width: {Width} \n Height: {Height} \n Area: {GetArea()} \n Perimeter: {GetPerimeter()}");
+    }
 
 
-        // Constructor concept started
+
+    internal class Program
+    {
+        private static void Main(string[] args)
+        {
+
+            Rectangle rectangle = new Rectangle();
+            rectangle.Width = 5;
+            rectangle.Height = 10;
+
+            rectangle.DisplayInfo();
 
 
-        //Book book1 = new Book();
+            // getter setter and class and objects concepts
 
-        //Console.WriteLine(book1.Title);
-        //Console.WriteLine(book1.Name);
-        //Console.WriteLine(book1.Author);
+            // Person person1 =new Person();
+            //int ramisAge= person1.Age = 10;
+            //string testName = person1.name = "Ramis";
+            //person1.Password = "heylo";
 
-        //Person person = new Person();
-        // person.Introduction("Ramis", 27, 143);
 
-        //Car toyota = new Car();
-        //toyota.Make = "Toyota";
-        //toyota.Model = "Tundra";
-        //toyota.Year = 2018;
-        //toyota.DisplayInfo();
 
-        //Student std1 = new Student(3485, "Syed Muhammad Rameez Raza", 10);
-        //std1.PrintInfo();
+            //Console.WriteLine(ramisAge);
+            //Console.WriteLine(testName);    
 
-        //BankAccount account1 = new BankAccount();
-        //account1.Name = "Rameez";
-        //account1.Deposit(10);
-        //account1.DisplayInfo();
-        //account1.WithDraw(5);
-        //account1.DisplayInfo();
 
+            //Console.WriteLine(person1.Password);
+
+
+            // Constructor concept started
+
+
+            //Book book1 = new Book();
+
+            //Console.WriteLine(book1.Title);
+            //Console.WriteLine(book1.Name);
+            //Console.WriteLine(book1.Author);
+
+            //Person person = new Person();
+            // person.Introduction("Ramis", 27, 143);
+
+            //Car toyota = new Car();
+            //toyota.Make = "Toyota";
+            //toyota.Model = "Tundra";
+            //toyota.Year = 2018;
+            //toyota.DisplayInfo();
+
+            //Student std1 = new Student(3485, "Syed Muhammad Rameez Raza", 10);
+            //std1.PrintInfo();
+
+            //BankAccount account1 = new BankAccount();
+            //account1.Name = "Rameez";
+            //account1.Deposit(10);
+            //account1.DisplayInfo();
+            //account1.WithDraw(5);
+            //account1.DisplayInfo();
+
+        }
     }
 }

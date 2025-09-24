@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\i_rameez\\c-_NetCore\\REVISION WEEK 2\\REVISION WEEK 2\\REVISION WEEK 2.csproj": {}
+    "D:\\c-_NetCore\\REVISION WEEK 2\\REVISION WEEK 2\\REVISION WEEK 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\i_rameez\\c-_NetCore\\REVISION WEEK 2\\REVISION WEEK 2\\REVISION WEEK 2.csproj": {
+    "D:\\c-_NetCore\\REVISION WEEK 2\\REVISION WEEK 2\\REVISION WEEK 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\i_rameez\\c-_NetCore\\REVISION WEEK 2\\REVISION WEEK 2\\REVISION WEEK 2.csproj",
+        "projectUniqueName": "D:\\c-_NetCore\\REVISION WEEK 2\\REVISION WEEK 2\\REVISION WEEK 2.csproj",
         "projectName": "REVISION WEEK 2",
-        "projectPath": "C:\\Users\\i_rameez\\c-_NetCore\\REVISION WEEK 2\\REVISION WEEK 2\\REVISION WEEK 2.csproj",
-        "packagesPath": "C:\\Users\\i_rameez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\i_rameez\\c-_NetCore\\REVISION WEEK 2\\REVISION WEEK 2\\obj\\",
+        "projectPath": "D:\\c-_NetCore\\REVISION WEEK 2\\REVISION WEEK 2\\REVISION WEEK 2.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "D:\\c-_NetCore\\REVISION WEEK 2\\REVISION WEEK 2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\i_rameez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
