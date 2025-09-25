@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\c-_NetCore\\REVISION WEEK 2\\",
+  "WorkspaceRootPath": "C:\\Users\\i_rameez\\c-_NetCore\\REVISION WEEK 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC63887A-9CAF-4410-94A3-8A5E7711CB14}|REVISION WEEK 2\\REVISION WEEK 2.csproj|d:\\c-_netcore\\revision week 2\\revision week 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC63887A-9CAF-4410-94A3-8A5E7711CB14}|REVISION WEEK 2\\REVISION WEEK 2.csproj|c:\\users\\i_rameez\\c-_netcore\\revision week 2\\revision week 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC63887A-9CAF-4410-94A3-8A5E7711CB14}|REVISION WEEK 2\\REVISION WEEK 2.csproj|solutionrelative:revision week 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\c-_NetCore\\REVISION WEEK 2\\REVISION WEEK 2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\i_rameez\\c-_NetCore\\REVISION WEEK 2\\REVISION WEEK 2\\Program.cs",
               "RelativeDocumentMoniker": "REVISION WEEK 2\\Program.cs",
-              "ToolTip": "D:\\c-_NetCore\\REVISION WEEK 2\\REVISION WEEK 2\\Program.cs",
+              "ToolTip": "C:\\Users\\i_rameez\\c-_NetCore\\REVISION WEEK 2\\REVISION WEEK 2\\Program.cs",
               "RelativeToolTip": "REVISION WEEK 2\\Program.cs",
-              "ViewState": "AgIAAKIAAAAAW5mZmZn5v6wAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T07:33:42.299Z",
               "EditorCaption": ""
