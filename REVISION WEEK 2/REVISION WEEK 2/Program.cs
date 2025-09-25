@@ -274,13 +274,50 @@
 //    }
 //}
 
+// Interface start
 
 
+public interface IDriveable
+{
+    void Drive();
+}
+public interface IFlyable
+{
+
+    void Fly();
+}
+
+public class Car : IDriveable
+{
+    public void Drive()
+    {
+        Console.WriteLine("Car is being drive ");
+    }
+}
+
+public class Plane : IFlyable, IDriveable
+{
+    public void Drive()
+    {
+        Console.WriteLine("Plane is taxing on thr Runway!");
+    }
+    public void Fly()
+    {
+        Console.WriteLine("Plane is about to fly");
+    }
+}
 
 internal class Program
     {
         private static void Main(string[] args)
         {
+
+        IDriveable driveable = new Car();
+        driveable.Drive();
+
+        Plane flyable = new Plane();
+        flyable.Fly();
+        flyable.Drive();
 
         //Rectangle rectangle = new Rectangle();
         //rectangle.Width = 5;
