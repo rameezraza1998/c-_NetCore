@@ -254,27 +254,25 @@
 //    }
 //}
 
-abstract class Shape
-{
-    public abstract double GetArea();
-    public abstract double GetPerimeter();
+//abstract class Shape
+//{
+//    public abstract double GetArea();
+//    public abstract double GetPerimeter();
 
-}
+//}
 
- class Circle : Shape
-{
-    public int radius;
-    public override double GetArea()
-    {
-        return radius * (3.142);
-    }
-    public override double GetPerimeter()
-    {
-        return (radius * 3.142) * 2;
-    }
-}
-
-//abstract class 
+// class Circle : Shape
+//{
+//    public int radius;
+//    public override double GetArea()
+//    {
+//        return radius*radius * (3.142);
+//    }
+//    public override double GetPerimeter()
+//    {
+//        return (radius * 3.142) * 2;
+//    }
+//}
 
 
 
@@ -366,6 +364,12 @@ internal class Program
 
        //Reactangle reactangle = new Reactangle();
        // reactangle.Draw();
+
+
+       // Circle c1 = new Circle();
+       // c1.radius = 2;
+       //Console.WriteLine(c1.GetArea());
+       // Console.WriteLine(c1.GetPerimeter());
 
     }
 }
