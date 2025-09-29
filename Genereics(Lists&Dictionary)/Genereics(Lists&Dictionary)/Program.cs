@@ -98,21 +98,22 @@ class Program
         //ListExample listExample = new ListExample();
         //listExample.CreatList();
 
-        LibrarySystem librarySystem = new LibrarySystem();
-        librarySystem.AddBook("The Great Gatsby");
-        librarySystem.AddBook("To Kill a Mockingbird");
-        librarySystem.ShowBooks();
-        librarySystem.RemoveBook("The Great Gatsby");
-
-
-
-
+        //LibrarySystem librarySystem = new LibrarySystem();
+        //librarySystem.AddBook("The Great Gatsby");
+        //librarySystem.AddBook("To Kill a Mockingbird");
+        //librarySystem.ShowBooks();
+        //librarySystem.RemoveBook("The Great Gatsby");
 
 
 
 
 
         // END practice for Lists and Dictionary in C#
+
+
+
+
+
 
         //List<string> names = new List<string>();
         //names.Add("Ali");
@@ -127,6 +128,18 @@ class Program
         //{
         //    Console.WriteLine(name);
         //}
+
+        //names.Remove(names[0]);
+        //names.Insert(0, "Murtuza");
+        //names[2] = "Alina";
+
+        //Console.WriteLine("After insertion at 1");
+
+        //foreach (var name in names)
+        //{
+        //    Console.WriteLine(name);
+        //}
+
         // Task 1 create list of present students and print them with sorting unique names and when type done is typed make it done
 
 

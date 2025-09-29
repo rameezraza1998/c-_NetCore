@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\c-_NetCore\\Phone Book (Dictionary)\\",
+  "WorkspaceRootPath": "C:\\Users\\i_rameez\\c-_NetCore\\Phone Book (Dictionary)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E39FABD-6FE2-4BE8-AE8D-DDA5E72DCBA0}|Phone Book (Dictionary)\\Phone Book (Dictionary).csproj|d:\\c-_netcore\\phone book (dictionary)\\phone book (dictionary)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E39FABD-6FE2-4BE8-AE8D-DDA5E72DCBA0}|Phone Book (Dictionary)\\Phone Book (Dictionary).csproj|c:\\users\\i_rameez\\c-_netcore\\phone book (dictionary)\\phone book (dictionary)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E39FABD-6FE2-4BE8-AE8D-DDA5E72DCBA0}|Phone Book (Dictionary)\\Phone Book (Dictionary).csproj|solutionrelative:phone book (dictionary)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\c-_NetCore\\Phone Book (Dictionary)\\Phone Book (Dictionary)\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\i_rameez\\c-_NetCore\\Phone Book (Dictionary)\\Phone Book (Dictionary)\\Program.cs",
               "RelativeDocumentMoniker": "Phone Book (Dictionary)\\Program.cs",
-              "ToolTip": "D:\\c-_NetCore\\Phone Book (Dictionary)\\Phone Book (Dictionary)\\Program.cs",
+              "ToolTip": "C:\\Users\\i_rameez\\c-_NetCore\\Phone Book (Dictionary)\\Phone Book (Dictionary)\\Program.cs",
               "RelativeToolTip": "Phone Book (Dictionary)\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwHgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T07:53:57.074Z",
               "EditorCaption": ""

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\c-_NetCore\\Genereics(Lists\u0026Dictionary)\\",
+  "WorkspaceRootPath": "C:\\Users\\i_rameez\\c-_NetCore\\Genereics(Lists\u0026Dictionary)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42351C88-B593-41D8-8770-017FC7593B1E}|Genereics(Lists\u0026Dictionary)\\Genereics(Lists\u0026Dictionary).csproj|d:\\c-_netcore\\genereics(lists\u0026dictionary)\\genereics(lists\u0026dictionary)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42351C88-B593-41D8-8770-017FC7593B1E}|Genereics(Lists\u0026Dictionary)\\Genereics(Lists\u0026Dictionary).csproj|c:\\users\\i_rameez\\c-_netcore\\genereics(lists\u0026dictionary)\\genereics(lists\u0026dictionary)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42351C88-B593-41D8-8770-017FC7593B1E}|Genereics(Lists\u0026Dictionary)\\Genereics(Lists\u0026Dictionary).csproj|solutionrelative:genereics(lists\u0026dictionary)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\c-_NetCore\\Genereics(Lists\u0026Dictionary)\\Genereics(Lists\u0026Dictionary)\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\i_rameez\\c-_NetCore\\Genereics(Lists\u0026Dictionary)\\Genereics(Lists\u0026Dictionary)\\Program.cs",
               "RelativeDocumentMoniker": "Genereics(Lists\u0026Dictionary)\\Program.cs",
-              "ToolTip": "D:\\c-_NetCore\\Genereics(Lists\u0026Dictionary)\\Genereics(Lists\u0026Dictionary)\\Program.cs*",
+              "ToolTip": "C:\\Users\\i_rameez\\c-_NetCore\\Genereics(Lists\u0026Dictionary)\\Genereics(Lists\u0026Dictionary)\\Program.cs*",
               "RelativeToolTip": "Genereics(Lists\u0026Dictionary)\\Program.cs*",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAmwE0AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAIwIUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-29T10:42:40.198Z",
               "EditorCaption": ""
