@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Last Topics")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54764162714091d3a3ea8f4477da5e5ad4c14fc3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c33acb8a54dd36e869eac37dc225d585ec5220e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Last Topics")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Last Topics")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
