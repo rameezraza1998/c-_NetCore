@@ -1,6 +1,4 @@
-Great! 👇 Main ne **aapke GitHub repo ka folder structure successfully identify kar liya** aur ab main aapke liye **clear step‑by‑step revision order** bana deta hoon, jo aap **weekly plan** ke hisaab se follow kar sakte ho. ✨
 
-Here’s what your repo contains (folders & project names) that we’ll use to structure your learning plan: ([GitHub][1])
 
 ### 📁 Your Repo Structure (Topics / Folders)
 
@@ -172,10 +170,6 @@ After this 1‑week plan, you’ll be ready to learn:
 🔹 Building small web APIs
 🔹 Real app architecture
 
-(If you want, I can make a **2‑week + 4‑week roadmap** for advancement — just ask!) 🚀
 
----
-
-Agar aap chahein, main iska **printable schedule** aur **checklist format** bhi bana deta hoon, jise aap daily tick kar sakhein — batao kya banaun? 📋
 
 [1]: https://github.com/rameezraza1998/c-_NetCore "GitHub - rameezraza1998/c-_NetCore"
